@@ -2,6 +2,11 @@
 
 My name is Rolando Sotelo, I'm passionate about Software Development, Data Analysis and Cloud Computing. During my free time, if I'm not learning something new on these subjects I just mentioned, then I'm probably reading some sci-fi novel or playing board games.
 
+- 🔭 I’m currently working on Milpa, an online card game.
+- 🌱 I’m currently learning about Data Analysis and Cloud Computing.
+
+**Be kind 🦧**
+
 <!--
 **rsoteloa/rsoteloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
