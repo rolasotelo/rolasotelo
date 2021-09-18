@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rolasotelo&theme=vue-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rolasotelo&theme=vue-dark" />
 </a>
 </p>
 
