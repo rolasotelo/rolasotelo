@@ -4,10 +4,10 @@
 </a>
 </p>
 
-**Hola! My name is Rola(ndo) Sotelo 🇲🇽**, I'm passionate for Software Development, and Cloud Computing. During my free time, if I'm not learning something new, then I'm probably reading or playing board games.
+**Hola! My name is Rola(ndo) Sotelo 🇲🇽**, I'm passionate for Software Engineering, and DevOps. During my free time, if I'm not learning something new, then I'm probably reading or playing board games.
 
-<!-- - 🔭 I’m currently working on Milpa, an online card game.
-- 🌱 I’m currently learning about Data Analysis and Cloud Computing. -->
+- 🏗 I’m currently working on [Milpa](https://milpa.online), an online card game.
+- 🔭 I’m learning about DevOps and Cloud Computing.
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,4 +15,4 @@
 </a>
 </p>
 
-<h4 align="center">🐄 Be kind to animals 🐖</h4>
+<h4 align="center">Be kind to animals 🐄 🐖 🦃</h4>
