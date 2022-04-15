@@ -1,13 +1,13 @@
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rolasotelo&theme=vue-dark" />
 </a>
-</p>
+</p> -->
 
-**Hola! My name is Rola(ndo) Sotelo 🇲🇽**, I'm passionate for Software Engineering, and DevOps. During my free time, if I'm not learning something new, then I'm probably reading or playing board games.
+**Hola 👋🏾! My name is Rola(ndo) Sotelo 🇲🇽**, I'm passionate for Software Engineering, and DevOps. During my free time, if I'm not learning something new, then I'm probably reading or playing board games.
 
 - 🏗 I’m currently working on [Milpa](https://milpa.online), an online card game.
-- 🔭 I’m currently learning Kubernetes and GitOps tools.
+- 🔭 I’m currently learning Kubernetes and pursuing an AWS SA certification.
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
