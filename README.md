@@ -14,12 +14,7 @@
 ---
 pronouns: He | Him
 code: ['Typescript', 'Go', 'Python']
-askMeAbout:
-  - Web Development
-  - DevOps
-  - GitOps
-  - Cloud Native
-  - Board Games
+askMeAbout: ['Web Development', 'DevOps', 'GitOps', 'Cloud Native', 'Board Games']
 technologies:
   frontEnd:
     js: ['React', 'Vue']
@@ -30,11 +25,7 @@ technologies:
   devOps: ['AWS', 'GCP', 'K8s', 'ArgoCD', 'Docker']
   databases: ['Mongo', 'Postsgres']
   misc: ['Linux', 'Firebase', 'Socket.IO', 'GraphQL', 'Terraform']
-favBoardGames:
-  - Twilight Imperium
-  - War of the Ring
-  - Clans of Caledonia
-  - 'Arkham Horror: The Card Game'
+favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Clans of Caledonia']
 ```
 
 <p align="center">
