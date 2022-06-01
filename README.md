@@ -6,9 +6,11 @@
 
 **Hola 👋🏾! My name is Rola(ndo) Sotelo 🇲🇽**; I'm passionate about Software Engineering and SRE. If I'm not learning something new during my free time, I'm probably reading or playing board games.
 
+K8s 🕸 is probably the technology I'm most intrigued about nowadays, and I'm working hard to become a CKA. I especially love how well it works alongside GitOps patterns.
+
 - 🏗 I'm currently developing [Milpa](https://milpa.online), an online card game.
 - 🧗🏾‍♂️ I'm currently enrolled in the [Cloud Engineer Bootcamp](https://openprofile.dev/profile/rolasotelo) from The Linux Foundation.
-- 🔭 I'm currently studying for [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer).
+- 🔭 I'm currently studying for the [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) certification.
 
 ```yaml
 ---
@@ -44,9 +46,6 @@ favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Clans of Caledonia']
   </a>
   <a href="https://rolasotelo.tech/">
     <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/rolasotelo">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
 </p>
 
