@@ -8,17 +8,18 @@
 
 - 🏗 I'm currently developing [Milpa](https://milpa.online), an online card game.
 - 🧗🏾‍♂️ I'm currently enrolled in the [Cloud Engineer Bootcamp](https://openprofile.dev/profile/rolasotelo) from The Linux Foundation.
-- 🔭 I'm currently studying for an AWS SA certification.
+- 🔭 I'm currently studying for [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer).
 
 ```yaml
 ---
 pronouns: He | Him
 code: ['Typescript', 'Go', 'Python']
-askMeAbout: ['Web Development', 'DevOps', 'GitOps', 'Cloud Native', 'Board Games']
+askMeAbout: ['Web Development', 'DevOps', 'GitOps', 'Cloud-Native', 'Board Games']
+certifications: ['AWS Certified Solutions Architect – Associate']
 technologies:
   frontEnd:
     js: ['React', 'Vue']
-    css: ['Tailwind CSS']
+    css: ['TailwindCSS']
   backEnd:
     js: ['NestJS']
     python: ['Flask']
