@@ -4,7 +4,7 @@
 </a>
 </p> -->
 
-**Hola 👋🏾! My name is Rola(ndo) Sotelo 🇲🇽**; I'm passionate about Software Engineering and SRE. If I'm not learning something new during my free time, I'm probably reading or playing board games.
+**Hola 👋🏾! My name is Rola[ndo] Sotelo 🇲🇽**; I'm passionate about Software Engineering and SRE. If I'm not learning something new during my free time, I'm probably reading or playing board games.
 
 K8s 🕸 is probably the technology I'm most intrigued about nowadays, and I'm working hard to become a CKA. I especially love how well it works alongside GitOps patterns.
 
