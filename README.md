@@ -42,7 +42,7 @@ favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Clans of Caledonia']
   <a href="https://twitter.com/rolasotelo">
     <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://rolasotelo.tech/">
+  <a href="https://rola.hashnode.dev/">
     <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 </p>
