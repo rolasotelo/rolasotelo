@@ -4,9 +4,7 @@
 </a>
 </p> -->
 
-**Hola 👋🏾! My name is Rola[ndo] Sotelo 🇲🇽**; I'm passionate about Cloud Engineering and SRE. If I'm not learning something new during my free time, I'm probably reading or playing board games.
-
-K8s 🕸 is probably the technology I'm most intrigued about nowadays, and I'm working hard to become a CKA. I especially love how well it works alongside GitOps patterns.
+**Hola 👋🏾! My name is Rola[ndo] Sotelo**; I'm passionate about Cloud Engineering and SRE. K8s 🕸 is probably the technology I'm most intrigued about nowadays, and I'm working hard to become a CKA. I especially love how well it works alongside GitOps patterns.
 
 - 🏗 I'm currently developing [Milpa](https://milpa.online), an online card game.
 - 🧗🏾‍♂️ I'm currently enrolled in the [Cloud Engineer Bootcamp](https://openprofile.dev/profile/rolasotelo) from The Linux Foundation.
@@ -15,17 +13,17 @@ K8s 🕸 is probably the technology I'm most intrigued about nowadays, and I'm w
 ---
 pronouns: He | Him
 code: ['Typescript', 'Go', 'Python']
-askMeAbout: ['Web Development', 'DevOps', 'GitOps', 'Cloud-Native', 'Linux', 'Board Games']
-certifications: ['AWS Certified Solutions Architect – Associate']
+askMeAbout: ['DevOps', 'Linux', 'Kubernetes','Web Development', 'GitOps', 'Cloud-Native', 'Board Games']
+certifications: ['AWS Certified Solutions Architect – Associate', 'Linux Foundation Certified SysAdmin']
 technologies:
   frontEnd:
     js: ['React', 'Vue']
     css: ['TailwindCSS']
   backEnd:
     js: ['NestJS']
-  devOps: ['AWS', 'GCP', 'K8s', 'ArgoCD', 'Docker']
-  databases: ['Mongo', 'Postsgres']
-  misc: ['Linux', 'Firebase', 'Socket.IO', 'GraphQL', 'Terraform']
+  devOps: ['AWS', 'K8s', 'GCP', 'Digital Ocean', 'ArgoCD', 'Docker', 'Backstage']
+  databases: ['MongoDB', 'PostsgreSQL']
+  misc: ['Firebase', 'Socket.IO', 'GraphQL', 'Terraform']
 favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Clans of Caledonia']
 ```
 
