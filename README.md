@@ -13,7 +13,7 @@
 ---
 pronouns: He | Him
 code: ['Typescript', 'Go', 'Python']
-askMeAbout: ['DevOps', 'Kubernetes','Web Development', 'GitOps', 'Cloud-Native', 'Board Games']
+askMeAbout: ['DevOps', 'K8s','WebDev', 'GitOps', 'Cloud-Native', 'Board Games']
 certifications: ['AWS Certified SAA', 'Linux Foundation Certified SysAdmin']
 technologies:
   frontEnd:
