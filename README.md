@@ -12,18 +12,21 @@
 ```yaml
 ---
 pronouns: He | Him
-code: ['Typescript', 'Python', 'Go']
-askMeAbout: ['DevOps', 'K8s','Fullstack', 'GitOps', 'Cloud-Native', 'Board Games']
-certifications: ['AWS-SAA', 'AWS-DVA', 'LFCS']
+code: ['Typescript', 'Python', 'Bash']
+askMeAbout: ['AWS', 'K8s', 'Fullstack Development', 'Board Games']
+certifications:
+ - 'AWS Solutions Architect Associate'
+ - 'AWS Developer Associate'
+ - 'Linux Foundation Certified SysAdmin'
 technologies:
   frontEnd:
-    js: ['React', 'Vue']
+    js: ['Nextjs', 'React', 'Vue']
     css: ['TailwindCSS']
   backEnd:
-    js: ['NestJS']
+    js: ['NestJS', 'Flask']
   devOps: ['AWS', 'K8s', 'Terraform', 'Ansible', 'GCP', 'Digital Ocean', 'ArgoCD']
-  databases: ['MongoDB', 'PostsgreSQL']
-  misc: ['Linux', 'Firebase', 'Socket.IO', 'GraphQL', 'Docker']
+  databases: ['DynamoDB', 'MongoDB', 'PostsgreSQL']
+  misc: ['Linux', 'REST API', 'Firebase', 'Socket.IO', 'GraphQL', 'Docker']
 favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Lisboa']
 ```
 
