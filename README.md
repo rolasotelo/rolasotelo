@@ -13,7 +13,7 @@
 ---
 pronouns: He | Him
 code: ['Typescript', 'Python', 'Bash']
-askMeAbout: ['AWS', 'K8s', 'Fullstack Development', 'Board Games']
+askMeAbout: ['AWS', 'K8s', 'Ansible', 'Fullstack Development', 'Board Games']
 certifications:
  - 'AWS Solutions Architect Associate'
  - 'AWS Developer Associate'
@@ -24,9 +24,9 @@ technologies:
     css: ['TailwindCSS']
   backEnd:
     js: ['NestJS', 'Flask']
-  devOps: ['AWS', 'K8s', 'Terraform', 'Ansible', 'GCP', 'Digital Ocean', 'ArgoCD']
+  devOps: ['AWS', 'K8s', 'Ansible', 'Terraform', 'GCP', 'Azure', 'Digital Ocean', 'ArgoCD']
   databases: ['DynamoDB', 'MongoDB', 'PostsgreSQL']
-  misc: ['Linux', 'REST API', 'Firebase', 'Socket.IO', 'GraphQL', 'Docker']
+  misc: ['Linux', 'REST API', 'Socket.IO', 'GraphQL', 'Docker']
 favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Lisboa']
 ```
 
