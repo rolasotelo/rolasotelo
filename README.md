@@ -4,7 +4,7 @@
 </a>
 </p> -->
 
-**Hola 👋🏾! My name is Rola[ndo] Sotelo**; I'm passionate about Cloud Engineering and SRE. K8s 🕸 is probably the technology I'm most intrigued about nowadays, and I'm working hard to become a CKA. I especially love how well it works alongside GitOps patterns.
+**Hola 👋🏾! My name is Rola[ndo] Sotelo**; I'm passionate about Cloud Engineering and SRE. K8s 🕸 is probably the technology I'm most intrigued about nowadays. I especially love how well it works alongside GitOps patterns.
 
 - 🏗 I'm currently developing [Milpa](https://milpa.online), an online card game.
 - 🧗🏾‍♂️ I'm currently enrolled in the [Cloud Engineer Bootcamp](https://openprofile.dev/profile/rolasotelo) from The Linux Foundation.
@@ -15,6 +15,7 @@ pronouns: He | Him
 code: ['Typescript', 'Python', 'Bash']
 askMeAbout: ['AWS', 'K8s', 'Ansible', 'Fullstack Development', 'Board Games']
 certifications:
+ - 'Certified Kubernetes Administrator'
  - 'AWS Solutions Architect Associate'
  - 'AWS Developer Associate'
  - 'Linux Foundation Certified SysAdmin'
