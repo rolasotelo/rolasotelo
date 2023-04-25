@@ -7,13 +7,13 @@
 **Hola 👋🏾! My name is Rola[ndo] Sotelo**; I'm passionate about Cloud Engineering and SRE. K8s 🕸 is probably the technology I'm most intrigued about nowadays. I especially love how well it works alongside GitOps patterns.
 
 - 🏗 I'm currently developing [Milpa](https://milpa.online), an online card game.
-- 🧗🏾‍♂️ I'm currently enrolled in the [Cloud Engineer Bootcamp](https://openprofile.dev/profile/rolasotelo) from The Linux Foundation.
+- I'm currently pursuing the Professional Cloud Architect Certification from GCP 🌥️.
 
 ```yaml
 ---
 pronouns: He | Him
 code: ['Typescript', 'Python', 'Bash']
-askMeAbout: ['AWS', 'K8s', 'Ansible', 'Fullstack Development', 'Board Games']
+askMeAbout: ['AWS', 'GCP', 'K8s', 'Ansible', 'Fullstack Development', 'Board Games']
 certifications:
  - 'Certified Kubernetes Administrator'
  - 'AWS Solutions Architect Associate'
@@ -21,7 +21,7 @@ certifications:
  - 'Linux Foundation Certified SysAdmin'
 technologies:
   frontEnd:
-    js: ['Nextjs', 'React', 'Vue']
+    js: ['Nextjs', 'Svelte', 'Vue']
     css: ['TailwindCSS']
   backEnd:
     js: ['NestJS', 'Flask']
@@ -41,7 +41,7 @@ favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Lisboa']
   <a href="https://www.linkedin.com/in/rolasotelo/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rola.hashnode.dev/">
+  <a href="https://rolasotelo.blog/">
     <img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="https://twitter.com/rolasotelo">
