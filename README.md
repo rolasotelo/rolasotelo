@@ -12,8 +12,8 @@
 ```yaml
 ---
 pronouns: He | Him
-code: ['Typescript', 'Python', 'Bash']
-askMeAbout: ['AWS', 'GCP', 'K8s', 'Ansible', 'Fullstack Development', 'Board Games']
+code: ['Typescript', 'Python', 'Go', 'Bash']
+askMeAbout: ['SRE','Web Development', 'Board Games']
 certifications:
  - 'Certified Kubernetes Administrator'
  - 'AWS Solutions Architect Associate'
@@ -21,12 +21,12 @@ certifications:
  - 'Linux Foundation Certified SysAdmin'
 technologies:
   frontEnd:
-    js: ['Nextjs', 'Svelte', 'Vue']
+    js: ['Nextjs', 'Solidjs']
     css: ['TailwindCSS']
   backEnd:
     js: ['NestJS', 'Flask']
-  devOps: ['AWS', 'K8s', 'Ansible', 'Terraform', 'GCP', 'Azure', 'Digital Ocean', 'ArgoCD']
-  databases: ['DynamoDB', 'MongoDB', 'PostsgreSQL']
+  devOps: ['AWS', 'GCP', 'K8s', 'Ansible', 'Terraform', 'Azure', 'Digital Ocean', 'ArgoCD']
+  databases: ['MongoDB', 'PostsgreSQL', 'DynamoDB']
   misc: ['Linux', 'REST API', 'Socket.IO', 'GraphQL', 'Docker']
 favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Lisboa']
 ```
