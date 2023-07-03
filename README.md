@@ -12,7 +12,7 @@
 ```yaml
 ---
 pronouns: He | Him
-code: ['Typescript', 'Python', 'Go', 'Bash']
+code: ['Go', 'Typescript', 'Python', 'Bash']
 askMeAbout: ['SRE','Web Development', 'Board Games']
 certifications:
  - 'Certified Kubernetes Administrator'
@@ -21,13 +21,13 @@ certifications:
  - 'Linux Foundation Certified SysAdmin'
 technologies:
   frontEnd:
-    js: ['Nextjs', 'Solidjs']
+    js: ['Nextjs']
     css: ['TailwindCSS']
   backEnd:
-    js: ['NestJS', 'Flask']
+    go: ['Connect']
   devOps: ['AWS', 'GCP', 'K8s', 'Ansible', 'Terraform', 'Azure', 'Digital Ocean', 'ArgoCD']
-  databases: ['MongoDB', 'PostsgreSQL', 'DynamoDB']
-  misc: ['Linux', 'REST API', 'Socket.IO', 'GraphQL', 'Docker']
+  databases: ['MongoDB', 'PostsgreSQL', 'SurrealDB']
+  misc: ['Linux', 'Socket.IO', 'GraphQL', 'Docker']
 favBoardGames: ['Twilight Imperium', 'War of the Ring', 'Lisboa']
 ```
 
